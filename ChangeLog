@@ -1,0 +1,19 @@
+Sat Dec 04 12:37:21 EST 2004 (Andrei Nicholson <andre@neo-anime.org>)
+----------------------------
+V 0.5
+ * index.php:
+     * Completed XML fomratting.
+     * Added debugging toggle to turn off printing info to stdout.
+     * Added toggle to turn off sleep commands after URL retrievals.
+ * Starting beta testing with Thunderbird 1.0rc.
+
+Thu Oct 28 12:26:22 EST 2004 (Andrei Nicholson <andre@neo-anime.org>)
+----------------------------
+ * cXml.class.php: Created class to handle all XML transaction.
+ * index.php: Created functions to parse messages into one array.
+
+Wed Oct 27 01:28:31 EST 2004 (Andrei Nicholson <andre@neo-anime.org>)
+----------------------------
+ * Initial creation. Able to retreive information about each message in Inbox.
+   Lack striping out the important parts from JavaScript variables and doing
+   something useful with that info.
